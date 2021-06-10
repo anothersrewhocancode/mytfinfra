@@ -1,0 +1,6 @@
+# dont include the local state file
+
+terraform.tfstate
+terraform.tfstate.*
+# dont include the providers folder
+.terraform
